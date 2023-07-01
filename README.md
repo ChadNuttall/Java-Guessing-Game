@@ -4,6 +4,8 @@
 This is a Java number guessing game. The game generates a "secret number" between 0 and 99 then propts the user to guess the number. Each guess is saved as an upper or lower limit to help the
 user to narrow down their search.
 
+There is also a hello world program to help anyone get started.
+
 {Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
 
 [Software Demo Video](http://youtube.link.goes.here)
